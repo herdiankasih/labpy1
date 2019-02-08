@@ -33,6 +33,11 @@ Program mencari bilangan terbesar dari 3 buah bilangan
 	agar program perulangan dapat berjalan
 ```
 
+=>> Flowchart program 1
+
+
+![flowprogram1](https://user-images.githubusercontent.com/43899109/52465207-6299dd00-2bb0-11e9-83eb-b833da1e5a62.jpg)
+
 
 =>> Kode python :
 

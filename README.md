@@ -2,6 +2,8 @@ Program mencari bilangan terbesar dari 3 buah bilangan
 
 =>> ALur algoritmanya :
 
+
+```
 1. Mendefinisikan perulangan dengan mengetikkan :
 	def pengulangan():
 2. Memasukkan 3 buah bilangan yg di inginkan :
@@ -29,10 +31,13 @@ Program mencari bilangan terbesar dari 3 buah bilangan
         print('Terima kasih')
 5. Lalu ketikkan "pengulangan()"
 	agar program perulangan dapat berjalan
+```
 
 
 =>> Kode python :
 
+
+```
 print ('Program mencari nilai tertinggi dari 3 buah bilangan')
 
 def pengulangan():
@@ -61,6 +66,8 @@ def pengulangan():
         print('Terima kasih')
 
 pengulangan()
+```
+
 
 
 =>> Hasil screenshoot program :
